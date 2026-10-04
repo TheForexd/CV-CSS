@@ -1,0 +1,48 @@
+.profile-img {
+            float: right;
+            width: 160px;
+            height: auto;
+            margin-right: 100px;
+            margin-top: 100px;
+        }
+        h2 {
+            color: #2e7d32;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+        h4 {
+            color: #1a237e;
+            margin-top: 15px;
+            margin-bottom: 5px;
+            font-size: 1rem;
+        }
+
+        .date {
+            color: #555555;
+            margin-top: 0;
+            margin-bottom: 8px;
+        }
+        address p {
+            margin: 2px 0;
+            font-style: normal;
+        }
+        ul {
+            margin-top: 5px;
+            margin-bottom: 10px;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 3px;
+        }
+        .clear {
+            clear: both;
+        }
+        footer {
+            margin-top: 40px;
+        }
+
+        footer p {
+            color: #666666;
+            font-size: 0.9rem;
+        }
